@@ -1,10 +1,10 @@
 # Hosting url to be used for adding server entry to database and show progress on web
-_DOMAIN="panel.frontline-vpn.com"
-HOSTING_DOMAIN="https://panel.frontline-vpn.com/";
+_DOMAIN="provpn.agronexus.org"
+HOSTING_DOMAIN="http://provpn.agronexus.org/";
 #url for progress
-PROGRESS_URL="https://panel.frontline-vpn.com/progress/";
+PROGRESS_URL="http://provpn.agronexus.org/progress/";
 #url fot adding record to database;
-RECORD_URL="https://panel.frontline-vpn.com/serve";
+RECORD_URL="http://provpn.agronexus.org/serve";
 # Some API Authentication Configuration
 API_URL=\"$_DOMAIN\";
 API_SSL="1";
