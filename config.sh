@@ -5,3 +5,5 @@ HOSTING_DOMAIN="https://award-vpn.com/";
 PROGRESS_URL="https://award-vpn.com/progress/";
 #url fot adding record to database;
 RECORD_URL="https://award-vpn.com/serve";
+PAM_USER="provpn";
+PAM_PASSWORD="paKaVmuDObT5.";
